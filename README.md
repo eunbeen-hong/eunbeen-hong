@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 * I’m currently working on \
 🔍 Computer vision project for detection of diffusion generated images. \
-👄 SeeSay: to help teach the deaf to pronounce the language. \
+👄 SeeSay: to help teach the deaf to speak. \
 🔤 NLP \
-👀 Another computer Vision project. 
+👀 Another computer Vision project.
 
