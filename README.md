@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={mulberry3280})](https://solved.ac/{mulberry3280}/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mulberry3280)](https://solved.ac/mulberry3280/)
 
 
 ---
