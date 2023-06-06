@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 * I’m currently working on \
 🔍 Computer vision project for detection of diffusion generated images. \
-👄 SeeSay: to help teach the deaf to speak. \
-🔤 NLP \
 👀 Another computer Vision project.
+
+* I have been worked on \
+👄 SeeSay: helping the deaf to speak. \
+🎵 LyriKOR: NLP project to translate English lyrics to Korean with syllable constraint.
 
