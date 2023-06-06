@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* I'm a student in Korea University.
+
+* I’m currently working on \
+🔍 Computer vision project for detection of diffusion generated images. \
+👀 Another computer Vision project.
+
+* I have been worked on \
+👄 SeeSay: helping the deaf to speak. \
+🎵 LyriKOR: NLP project to translate English lyrics to Korean with syllable constraint.
+
+
+---
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpancakesontuesday&count_bg=%236E7F64&title_bg=%23483C32&icon=bitrise.svg&icon_color=%23FCFCFC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
@@ -33,12 +46,4 @@ Here are some ideas to get you started:
 
 
 ---
-
-* I’m currently working on \
-🔍 Computer vision project for detection of diffusion generated images. \
-👀 Another computer Vision project.
-
-* I have been worked on \
-👄 SeeSay: helping the deaf to speak. \
-🎵 LyriKOR: NLP project to translate English lyrics to Korean with syllable constraint.
 
