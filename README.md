@@ -32,13 +32,16 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
-![](https://img.shields.io/badge/Verilog-ED1B24?style=for-the-badge&logo=verilog&logoColor=white)
-![](https://img.shields.io/badge/Q%23-690057?style=for-the-badge&logo=qsharp&logoColor=white)
+![](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) <!-- C -->
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) <!-- Cpp -->
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) <!-- C#-->
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <!-- Python -->
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <!-- Go -->
+![](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white) <!-- Ocaml -->
+![](https://img.shields.io/badge/Verilog-ED1B24?style=for-the-badge&logo=verilog&logoColor=white) <!-- Verilog -->
+![](https://img.shields.io/badge/Q%23-690057?style=for-the-badge&logo=qsharp&logoColor=white) <!-- Q# -->
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio) <!-- Android Studio -->
+
 
 ---
 
