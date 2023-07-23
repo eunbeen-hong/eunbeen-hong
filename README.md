@@ -14,7 +14,7 @@
 * I'm a student in Korea University.
 
 * I’m currently learning \
-👩‍💻 app and web development
+👩‍💻 app and web development \
 🎮 game making with unity
 
 
