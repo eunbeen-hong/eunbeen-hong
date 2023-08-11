@@ -22,6 +22,7 @@
 👄 SeeSay: helping the deaf to speak. \
 🎵 LyriKOR: NLP project to translate English lyrics to Korean with syllable constraint. \
 🖼️ Diffusion Deception Detector: CV project on how to distinguish real images from diffusion generated images \
+😡 Madcamp: Immersively developed one app/web service per week for a month. Four different projects in my repository.
 
 
 ---
