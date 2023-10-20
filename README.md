@@ -11,17 +11,17 @@
 - ⚡ Fun fact: ...
 -->
 
-* I'm a student in Korea University.
+* I'm a student in the Korea University.
 
 * I’m currently learning \
 👩‍💻 app and web development \
 🎮 game making with unity
 
 
-* I have been worked on \
+* I have worked on \
 👄 SeeSay: helping the deaf to speak. \
-🎵 LyriKOR: NLP project to translate English lyrics to Korean with syllable constraint. \
-🖼️ Diffusion Deception Detector: CV project on how to distinguish real images from diffusion generated images \
+🎵 LyriKOR: NLP project to translate English lyrics to Korean with syllable constraints. \
+🖼️ Diffusion Deception Detector: CV project on how to distinguish real images from diffusion-generated images \
 😡 Madcamp: Immersively developed one app/web service per week for a month. Four different projects in my repository.
 
 
